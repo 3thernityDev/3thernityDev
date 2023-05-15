@@ -1,29 +1,23 @@
-
-<h1 align="center">Salut 👋, Je suis 3thernity / Julien</h1>
-<h3 align="center">Un jeune débutant dans le développement web !</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3thernitydev&label=Profile%20views&color=0e75b6&style=flat" alt="3thernitydev" /> </p>
+# 💫 MOI:
+🌱 J'apprend tout ! (Logique je débute !😆)<br><br>👨‍💻 Mon portfolio [soon]<br><br>📫 Contacte moi ici: 3thernitydev@gmail.com<br>⚡ Fun fact J'adore Minecraft !
 
 
-- 🌱 J'apprend **tout ! (Logique je débute !😆)**
+## 🌐 Réseaux:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/C9Fe6X3scJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3thernity) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3thernitymars) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/3thernity) 
 
-- 👨‍💻 Mon portfolio [soon]
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=3thernitydev&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=3thernitydev&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=3thernitydev&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-- 📫 Contacte moi ici: **3thernitydev@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📄 Experience: [Vide pour le moment :c]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=3thernitydev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **J'adore Minecraft !**
-
-<h3 align="left">Langue de programmation  et outils </h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3thernitydev&show_icons=true&locale=en&layout=compact" alt="3thernitydev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3thernitydev&show_icons=true&locale=en" alt="3thernitydev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3thernitydev&" alt="3thernitydev" /></p>
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=3thernitydev&icon=5&color=7)](https://visitcount.itsvg.in)
 
