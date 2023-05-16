@@ -19,4 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=3thernitydev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=3thernitydev&icon=5&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=3thernitydev&label=Vue%20profils%20&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
