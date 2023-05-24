@@ -18,4 +18,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=3thernitydev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=3thernitydev&label=Vue%20profils%20&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://www.buymeacoffee.com/3thernity"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a fox&emoji=🦊&slug=3thernity&button_colour=ff6600&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
