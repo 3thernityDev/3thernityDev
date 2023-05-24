@@ -8,8 +8,8 @@
 # 💻 Skills:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=3thernitydev&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=3thernitydev&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=3thernitydev&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=3thernitydev&theme=jolly&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3thernitydev&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
