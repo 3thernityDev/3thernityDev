@@ -12,10 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3thernitydev&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3thernitydev&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=3thernitydev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 <a href="https://www.buymeacoffee.com/3thernity"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a fox&emoji=🦊&slug=3thernity&button_colour=ff6600&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
