@@ -32,9 +32,7 @@ src="https://img.shields.io/twitch/status/3thernity?logo=twitchsx&style=for-the-
 
 <p align="left"> <a href="https://discord.com/users/3thernity#7886" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/3thernitydev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/3thernity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@3thernitydev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/3thernity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>Stats</b>
+### Stats
 
 <a href="http://www.github.com/3thernitydev"><img src="https://github-readme-stats.vercel.app/api?username=3thernitydev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="3thernitydev's GitHub stats" /></a>
 
