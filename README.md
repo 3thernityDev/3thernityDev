@@ -9,7 +9,7 @@ Je débute dans l'apprentissage du développement web !
 * 🌍  Je vie à la  Reunion
 * 🖥️ Mon portfolio [Soon](http://github.com/3thernityDev)
 * ✉️  Contact moi ici [3thernitydev@gmail.com](mailto:3thernitydev@gmail.com)
-* 🧠  J'apprend le développement web et les plugins minecraft
+* 🧠  J'apprend le développement web.
 * ⚡  Un grand fan du jeux vidéo minecraft !
 
 <a href="https://www.github.com/3thernitydev" target="_blank" rel="noreferrer"><img
