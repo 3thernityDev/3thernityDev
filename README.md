@@ -1,6 +1,6 @@
 Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je suis 3thernity/Julien
 =================================================================================================================================
-
+[![](https://visitcount.itsvg.in/api?id=3thernitydev&label=vues&icon=5&pretty=true)](https://visitcount.itsvg.in)
 Développeur web
 ---------------
 
