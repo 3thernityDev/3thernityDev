@@ -42,4 +42,3 @@ src="https://img.shields.io/twitch/status/3thernity?logo=twitchsx&style=for-the-
 
 
 
-<a href="https://www.buymeacoffee.com/3thernity"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a fox&emoji=🦊&slug=3thernity&button_colour=ff7300&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="200" /></a>
