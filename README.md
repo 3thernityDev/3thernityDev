@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/50fb0505-8c27-4883-9887-f660b2304e56.svg)](https://wakatime.com/@50fb0505-8c27-4883-9887-f660b2304e56)
 Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je suis 3thernity/Julien
 =================================================================================================================================
 Développeur web
